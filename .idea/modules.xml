@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/webflux-file/webflux-file.iml" filepath="$PROJECT_DIR$/webflux-file/webflux-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/webflux-helloworld/webflux-helloworld.iml" filepath="$PROJECT_DIR$/webflux-helloworld/webflux-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/xttblog-webflux.iml" filepath="$PROJECT_DIR$/xttblog-webflux.iml" />
     </modules>
