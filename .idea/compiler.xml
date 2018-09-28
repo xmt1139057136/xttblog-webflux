@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="webflux-file" />
         <module name="webflux-helloworld" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="webflux-file" target="1.8" />
       <module name="webflux-helloworld" target="1.8" />
       <module name="xttblog-webflux" target="1.8" />
     </bytecodeTargetLevel>

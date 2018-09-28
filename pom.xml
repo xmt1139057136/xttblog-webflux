@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>webflux-helloworld</module>
+        <module>webflux-file</module>
     </modules>
 
     <properties>
